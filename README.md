@@ -1,8 +1,9 @@
-# RPERSISTANCE
+# TODOAPP
 
-An android app for helping users create, follow and keep 
-track of their desired daily routines. Currently only
-a todo app made from a tutorial online.
+An android app which allows adding items and deleting
+items to a list to act as a kind of todo list. Followed
+a tutorial from a website and was only meant to be a 
+learning process.
 
 ## License
 

@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.1"
 
     defaultConfig {
-        applicationId "com.example.mzhr.rpersistance"
+        applicationId "com.example.mzhr.todoapp"
         minSdkVersion 16
         targetSdkVersion 23
         versionCode 1
